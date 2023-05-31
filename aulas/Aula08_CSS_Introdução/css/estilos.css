@@ -1,0 +1,48 @@
+
+body{ 
+    color:aqua;
+    background:linear-gradient(to right,rgb(2, 29, 93),rgb(35, 94, 171),rgb(114, 165, 233));    
+}
+
+
+h2{
+    color: red;
+}
+
+
+p{
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+p a{
+    color:green;
+    text-decoration: none; 
+}
+
+p a:hover{
+    color:red; 
+}
+
+img{
+    width:500px; 
+    height:300px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
